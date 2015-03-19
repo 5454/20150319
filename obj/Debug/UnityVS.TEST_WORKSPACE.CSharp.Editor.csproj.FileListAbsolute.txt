@@ -1,0 +1,16 @@
+E:\TEST_WORKSPACE\obj\Debug\UnityVS.TEST_WORKSPACE.CSharp.Editor.csprojResolveAssemblyReference.cache
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\protobuf-net.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\TEST_WORKSPACE\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.xml
+E:\TEST_WORKSPACE\obj\Debug\Assembly-CSharp-Editor.dll
+E:\TEST_WORKSPACE\obj\Debug\Assembly-CSharp-Editor.pdb

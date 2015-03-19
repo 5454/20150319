@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TEST_WORKSPACE.CSharp", "UnityVS.TEST_WORKSPACE.CSharp.csproj", "{AC750EA6-9EC1-6AE4-8975-1563956671EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TEST_WORKSPACE.CSharp.Editor", "UnityVS.TEST_WORKSPACE.CSharp.Editor.csproj", "{C9A25388-104A-4720-4B81-15DE7D54CB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC750EA6-9EC1-6AE4-8975-1563956671EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC750EA6-9EC1-6AE4-8975-1563956671EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC750EA6-9EC1-6AE4-8975-1563956671EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC750EA6-9EC1-6AE4-8975-1563956671EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A25388-104A-4720-4B81-15DE7D54CB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A25388-104A-4720-4B81-15DE7D54CB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A25388-104A-4720-4B81-15DE7D54CB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A25388-104A-4720-4B81-15DE7D54CB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
