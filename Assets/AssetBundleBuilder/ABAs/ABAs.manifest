@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube1
+      Dependencies:
+        Dependency_0: cube1m
+    Info_1:
+      Name: cube2
+      Dependencies:
+        Dependency_0: cube2m
+    Info_2:
+      Name: cube1m
+      Dependencies: {}
+    Info_3:
+      Name: cube2m
+      Dependencies: {}

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1504835371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb7aad73eb5737552316dcf43cb30565
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d33a3d6e54f853e62168d65fd647051b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Cube1.prefab
+Dependencies:
+- E:/TEST_WORKSPACE/Assets/AssetBundleBuilder/ABAs/cube1m
